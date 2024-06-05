@@ -46,7 +46,8 @@ Welcome to the **OS Utility Programs** repository! This project includes a varie
     ```
 
 ## Usage
-##Contributing
+
+## Contributing
 
 We welcome contributions from the community. To contribute, please follow these steps:
 
@@ -58,11 +59,11 @@ We welcome contributions from the community. To contribute, please follow these 
     Open a pull request.
 
 Please read our Contributing Guidelines for more details.
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 
 For any inquiries, please contact us at swgtds@outlook.com.
 ### System Monitoring
