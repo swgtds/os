@@ -46,7 +46,25 @@ Welcome to the **OS Utility Programs** repository! This project includes a varie
     ```
 
 ## Usage
+##Contributing
 
+We welcome contributions from the community. To contribute, please follow these steps:
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature/your-feature).
+    Make your changes.
+    Commit your changes (git commit -m 'Add some feature').
+    Push to the branch (git push origin feature/your-feature).
+    Open a pull request.
+
+Please read our Contributing Guidelines for more details.
+##License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+##Contact
+
+For any inquiries, please contact us at swgtds@outlook.com.
 ### System Monitoring
 
 To monitor CPU usage:
