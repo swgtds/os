@@ -1,4 +1,4 @@
-read -p "Enter a Number: " n
+read -p "Enter a number: " n
 r=0
 a=$n
 while [ $n -gt 0 ]
