@@ -38,12 +38,11 @@ Welcome to the **OS Utility Programs** repository! This project includes a varie
 1. Clone the repository:
     ```bash
     git clone https://github.com/swgtds/os.git
-    cd os
     ```
 
-2. Install necessary dependencies (if any):
+2. Change the present working directory:
     ```bash
-      C compiler(gcc/clang)
+      cd os
     ```
 
 ## Usage
