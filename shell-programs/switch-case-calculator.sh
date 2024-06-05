@@ -11,16 +11,16 @@ do
     echo "4. Division"
     read ch
     case $ch in
-    1)echo " Addition:" `expr $a + $b`
-    ;;
-    2)echo " Subtraction:" `expr $a - $b`
-    ;;
-    3)echo " Multiplication:" `expr $a \* $b`
-    ;;
-    4)echo " Division:" `expr $a / $b`
-    ;;
-    *)echo "Invalid Choice"
-    ;;
+        1)echo " Addition:" `expr $a + $b`
+        ;;
+        2)echo " Subtraction:" `expr $a - $b`
+        ;;
+        3)echo " Multiplication:" `expr $a \* $b`
+        ;;
+        4)echo " Division:" `expr $a / $b`
+        ;;
+        *)echo "Invalid Choice"
+        ;;
     esac
     echo "Do You want to continue?"
     read i
