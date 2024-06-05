@@ -58,16 +58,9 @@ We welcome contributions from the community. To contribute, please follow these 
     Push to the branch (git push origin feature/your-feature).
     Open a pull request.
 
-Please read our Contributing Guidelines for more details.
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GPL v3.0 License. See the [LICENSE](https://github.com/swgtds/os/blob/main/LICENSE) file for details.
 
 ## Contact
-
 For any inquiries, please contact us at swgtds@outlook.com.
-### System Monitoring
-
-To monitor CPU usage:
-```bash
-./monitoring/cpu_usage.sh
